@@ -1,0 +1,7 @@
+{
+	"mailing_list": {
+		"block_user": [],
+		"post_forwards": true,
+		"enabled": true
+	}
+}
